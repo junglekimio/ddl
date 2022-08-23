@@ -1,2 +1,2 @@
 # ddl
-Protobuf as Data Definition Langauge
+Data Definition Langauge
